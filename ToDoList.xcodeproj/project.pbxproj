@@ -12,6 +12,7 @@
 		ECE1BBEC22B3E6C900E13977 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ECE1BBEA22B3E6C900E13977 /* Main.storyboard */; };
 		ECE1BBEE22B3E6CE00E13977 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ECE1BBED22B3E6CE00E13977 /* Assets.xcassets */; };
 		ECE1BBF122B3E6CE00E13977 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ECE1BBEF22B3E6CE00E13977 /* LaunchScreen.storyboard */; };
+		ECE1BBF922B3EB4E00E13977 /* DetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECE1BBF822B3EB4E00E13977 /* DetViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		ECE1BBED22B3E6CE00E13977 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ECE1BBF022B3E6CE00E13977 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ECE1BBF222B3E6CE00E13977 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ECE1BBF822B3EB4E00E13977 /* DetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				ECE1BBE622B3E6C900E13977 /* AppDelegate.swift */,
 				ECE1BBE822B3E6C900E13977 /* ViewController.swift */,
 				ECE1BBEA22B3E6C900E13977 /* Main.storyboard */,
+				ECE1BBF822B3EB4E00E13977 /* DetViewController.swift */,
 				ECE1BBED22B3E6CE00E13977 /* Assets.xcassets */,
 				ECE1BBEF22B3E6CE00E13977 /* LaunchScreen.storyboard */,
 				ECE1BBF222B3E6CE00E13977 /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				ECE1BBE922B3E6C900E13977 /* ViewController.swift in Sources */,
 				ECE1BBE722B3E6C900E13977 /* AppDelegate.swift in Sources */,
+				ECE1BBF922B3EB4E00E13977 /* DetViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
